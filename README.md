@@ -1,4 +1,3 @@
-This is my personal portfolio
 <header> My personal portfolio </header>
 <br>
 
